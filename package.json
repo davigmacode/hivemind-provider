@@ -1,0 +1,19 @@
+{
+  "name": "hivemind-provider",
+  "version": "1.0.0",
+  "description": "a library to get content from supported provider by hivemind",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Irfan Vigma Taufik <davigmacode@gmail.com> (http://www.davigmacode.com)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "dotenv": "^4.0.0"
+  }
+}
