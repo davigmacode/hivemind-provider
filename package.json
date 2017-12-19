@@ -1,6 +1,6 @@
 {
   "name": "hivemind-provider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a library to get content from supported provider by hivemind",
   "main": "./src/index.js",
   "scripts": {
